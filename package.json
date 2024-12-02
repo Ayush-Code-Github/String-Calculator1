@@ -1,0 +1,13 @@
+
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "String Calculator with TDD",
+  "main": "src/add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
