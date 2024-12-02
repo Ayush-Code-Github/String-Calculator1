@@ -1,4 +1,3 @@
-// tests/add.test.js
 
 const add = require('../src/add');
 
